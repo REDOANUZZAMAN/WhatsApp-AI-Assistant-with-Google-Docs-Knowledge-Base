@@ -200,4 +200,4 @@ This workflow is provided as-is for use with n8n. Modify and adapt as needed for
 
 ## 🙏 Credits
 
-Built with n8n, powered by Google Gemini, and designed for seamless customer support automation.
+Built with n8n, powered by Google Gemini, and designed Redoanuzzaman.
