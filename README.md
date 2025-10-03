@@ -183,8 +183,8 @@ Create conditional nodes to forward complex queries to human agents.
 
 If you need assistance with setup, customization, or scaling this solution:
 
-- **Email**: tharwat.elsayed2000@gmail.com
-- **WhatsApp**: +201061803236
+- **Email**: redoanuzzaman707@gmail.com
+- **WhatsApp**: +8801300512598
 
 ### Services Offered:
 - WhatsApp Cloud API setup & verification
