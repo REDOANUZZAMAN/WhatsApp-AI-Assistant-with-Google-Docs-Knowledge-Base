@@ -2,6 +2,14 @@
 
 A smart WhatsApp chatbot that automatically answers customer questions using your business documentation stored in Google Docs. No training required—just update your Google Doc and the bot instantly knows the new information.
 
+
+![n8n](https://img.shields.io/badge/n8n-Workflow-EA4B71)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Business-25D366)
+![Google Docs](https://img.shields.io/badge/Google-Docs-4285F4)
+![Google Sheets](https://img.shields.io/badge/Google-Sheets-34A853)
+
+
 ## 🎯 What It Does
 
 This n8n workflow creates an intelligent WhatsApp assistant that:
